@@ -1,8 +1,9 @@
 # Pandora (1GHz, Rebirth, Classic)
 ![Alt text](imgs/main.jpg)
   
-|CPU      |TI DM3730 Cortex-A8 1GHz                            |
+|Component|Description                                         |
 |---------|----------------------------------------------------|
+|CPU      |TI DM3730 Cortex-A8 1GHz                            |
 |RAM      |512MB                                               |
 |Storage  |512MB                                               |
 |Screen   |4.3" 800x480 Resistive Touch                        |
@@ -16,5 +17,4 @@
 |Dimension|140.29mm x 83.48mm x 29.25mm                        |
 |Weight   |320g                                                |
   
-## Website
--  https://steward-fu.github.io/website/index.htm
+### Website  -  https://steward-fu.github.io/website/index.htm
