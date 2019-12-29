@@ -3,7 +3,7 @@
   
 |Component|Description                                         |
 |---------|----------------------------------------------------|
-|CPU      |TI DM3730 Cortex-A8 1GHz, TI OMAP3530 Cortex-A8 600MHz, TI OMAP3530 Cortex-A8 600MHz                            |
+|CPU      |TI Cortex-A8 DM3730 1GHz, OMAP3530 600MHz, OMAP3530 600MHz                            |
 |RAM      |512MB, 512MB, 256MB                                               |
 |Storage  |512MB                                               |
 |Screen   |4.3" 800x480 Resistive Touch                        |
